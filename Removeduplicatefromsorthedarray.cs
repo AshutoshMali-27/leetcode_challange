@@ -24,9 +24,11 @@ public class Solution
                 k++;
                 nums[k - 1] = nums[i];
             }
+
         }
 
         return k;
 
     }
+
 }
