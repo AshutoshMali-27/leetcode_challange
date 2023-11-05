@@ -10,6 +10,8 @@ For example, do not use pow(x, 0.5) in c++ or x ** 0.5 in python.
     public int MySqrt(int x)
     {
         if (x == 0)
+
+
         {
             return 0;
         }
